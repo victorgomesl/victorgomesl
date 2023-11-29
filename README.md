@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-<h3>Sobre mim</h3>
+### Me chamo Victor Gomes, tenho 28 anos, conheça um pouco mais sobre mim:
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://portal.uniasselvi.com.br/">Uniasselvi</a>.
@@ -18,11 +18,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
