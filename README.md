@@ -3,7 +3,7 @@
 ### Me chamo Victor Gomes, tenho 29 anos, conheça um pouco mais sobre mim:
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://portal.uniasselvi.com.br/">Uniasselvi</a>.
+- 🎓 Estudando **Analise e Desenvolvimento de Sistemas**.
 - 🌱 Aprendendo mais sobre **React, Typescript, MySQL/SQL, AWS e GCP**.
 
 <h3>Minhas Skills</h3>
